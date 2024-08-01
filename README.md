@@ -85,7 +85,7 @@ After installing our app.
 These are authentication screens, one to register and one to login
 
 <div display="flex" align="center" border-left="2px solid white">
-<img src="https://github.com/HarshaVoleti/NewsFlash/blob/main/screenshots/signup_screen.png" width="200" height="400" >
+<img src="https://github.com/HarshaVoleti/NewsFlash/blob/main/screenshots/singup_screen.png" width="200" height="400" >
 <img src="https://github.com/HarshaVoleti/NewsFlash/blob/main/screenshots/login_screen.png" width="200" height="400" >
 </div>
 
